@@ -1,0 +1,34 @@
+*{
+    font-family: 'Sarabun', sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(240, 189, 36);
+    margin: 50px auto;
+    width: 70%;
+
+}
+
+td,th{
+    border: 1px solid rgb(240, 189, 36);
+    padding: 12px 15px;
+    text-align: start;
+}
+
+.geltona{
+background-color: rgb(240, 189, 36)
+}
+
+.pavardė{
+    background-color: rgb(204, 157, 16)
+}
+
+.violet{
+    background-color: rgb(49, 4, 94);
+    
+}
+
+td{
+    color: white;
+}
